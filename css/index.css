@@ -1,0 +1,183 @@
+
+
+body{
+	font-family: 'Microsoft Yahei';
+	background-color: #f6f6f6 !important;
+}
+
+.jumbotron .active_detail{
+	font-size:14px;
+	color:#fff;
+	line-height:28px;
+}
+
+
+.active_pic_title{
+	font-size:30px;
+	color:#333;
+	margin:32px 0 15px;
+}
+
+.active_pic_detail{
+	font-size:14px;
+	color:#333;
+	margin-bottom:20px;
+}
+.navbar{
+	margin-bottom:0px;
+}
+
+.navbar-brand{
+	padding:5px 15px;
+}
+
+.navbar-inverse {
+    background-color: #ff722b;
+    border-color: #ff722b;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #fff
+}
+
+.navbar-inverse .navbar-toggle:hover,.navbar-inverse .navbar-toggle:focus {
+    background-color:pink;
+}
+
+.navbar-inverse .navbar-form{
+	border-color:#fff;
+}
+
+.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{
+	border-color:#fff;
+}
+
+.jumbotron{
+	background-color: white;
+    border-radius: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+@media screen and (min-width: 768px){
+.container .jumbotron {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+}
+.media:first-child {
+    margin-top: 0;
+}
+.media-middle {
+    vertical-align: middle;
+}
+.service-head-cover {
+    width: 129px;
+    height: 121px;
+}
+
+.intro .intro-content {
+    vertical-align: middle;
+    padding-left: 20px;
+}
+.intro h1 {
+    font-size: 32px;
+    color: #03A3FC;
+}
+.banner_title{
+	margin-top:40px;
+}
+.intro .intro-content .welcome {
+    margin-top: 20px;
+}
+.intro .btn.btn-job {
+    background-color: #03A3FC;
+    border-color: #03A3FC;
+    border-radius: 0;
+    width: 165px;
+}
+@media (max-width: 767px){
+	.jumbotron.intro .intro-content .welcome {
+		margin-bottom: 20px;
+	}
+	 .jumbotron.intro .go {
+    display: block;
+}
+}
+
+.intro .go {
+    vertical-align: middle;
+}
+.media-body {
+    width: 10000px;
+}
+@media (max-width:992px){
+	.banner_title{
+		margin-top:10px;
+	}
+}
+
+
+.active_title{
+	font-size:18px;
+	color:#ff0;
+	margin-top:20px;
+}
+
+.jumbotron .active_detail{
+	font-size:14px;
+	color:#fff;
+	line-height:28px;
+}
+
+
+.active_pic_title{
+	font-size:30px;
+	color:#333;
+	margin:32px 0 15px;
+}
+
+.active_pic_detail{
+	font-size:14px;
+	color:#333;
+	margin-bottom:20px;
+}
+
+.pic_detail_title{
+	/* text-align:center; */
+	font-size:14px;
+	color:#333;
+	line-height: 1.1;
+	font-family: inherit;
+	    font-weight: normal;
+}
+
+div.thumbnail{
+	/* max-width:260px; */
+	margin:0px auto 20px;
+	padding: 10px;
+	position: relative;
+	
+}
+.thumbnail>p{
+	margin: 0;
+    color: #777;
+    font-size: 13px;
+    font-weight: normal;
+}
+div.thumbnail>span{
+	position: absolute;
+    top: 30px;
+    right: 25px;
+    background-color: #03a3fc;
+    color: white;
+    padding: 2px 4px 2px 4px;
+}
+div.thumbnail>img{
+	height: 215px;
+	width: 100%;
+}

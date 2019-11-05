@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5366528",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "6664557",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e50f",
+      "unicode_decimal": 58639
+    },
+    {
+      "icon_id": "7440993",
+      "name": "微信",
+      "font_class": "xingzhuang",
+      "unicode": "e508",
+      "unicode_decimal": 58632
+    }
+  ]
+}
